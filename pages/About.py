@@ -24,8 +24,8 @@ with col2:
     
     st.markdown('CB.EN.U4CSE19106 - [Ayush Barik](http://github.com/accelbia)')
     st.markdown('CB.EN.U4CSE19106 - [T. Ganesh Rohit Sarma](http://github.com/roathena)')
-    st.markdown('CB.EN.U4CSE19106 - [A Shivaani](http://github.com/roathena)')
-    st.markdown('CB.EN.U4CSE19106 - [V Neelesh Gupta](https://github.com/ShivaaniAnand)')
+    st.markdown('CB.EN.U4CSE19106 - [A Shivaani](http://github.com/ShivaaniAnand)')
+    st.markdown('CB.EN.U4CSE19106 - [V Neelesh Gupta](http://github.com/vayigandlaneelesh)')
     # ref = {
     #     'Roll no.' : ['CB.EN.U4CSE19106','CB.EN.U4CSE19106','CB.EN.U4CSE19106','CB.EN.U4CSE19106'],
     #     'Name' : ['T. Ganesh Rohit Sarma','Ayush Barik','A Shivaani','V Neelesh Gupta']
