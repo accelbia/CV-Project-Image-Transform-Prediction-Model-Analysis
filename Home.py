@@ -74,8 +74,8 @@ if model_name and files:
         pass
     trainable = st.checkbox('Trainable')
     model.trainable = trainable
-    visualkeras.layered_view(model, to_file='imported_model.png', background_fill = '#0e1117')
-    image = Image.open('imported_model.png')
+    visualkeras.layered_view(model, to_file='cache/imported_model.png', background_fill = '#0e1117')
+    image = Image.open('cache/imported_model.png')
     st.image(image, caption=model_name)
     with st.expander("Expand model"):
         model.summary(print_fn=lambda x: st.text(x))
