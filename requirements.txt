@@ -1,1 +1,8 @@
 patoolib
+scikit-image
+numpy
+streamlit
+visualkeras
+keras
+pandas
+opencv-python

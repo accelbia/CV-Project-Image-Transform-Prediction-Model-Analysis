@@ -5,8 +5,7 @@ from skimage import transform
 from skimage.exposure import equalize_hist
 import os
 
-
-def fourier_transform(path):
+def fourier_transform():
     X = []
     Y = []
     print(os.getcwd())
@@ -19,7 +18,7 @@ def fourier_transform(path):
             Y.append(i)
     X = np.asarray(X)
     Y = np.asarray(Y)
-    print(X)
+    #print(X)
     return X, Y
 
 def preprocess(img):
