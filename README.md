@@ -19,7 +19,7 @@ This project has the following features :
 + The model has been deployed on a web-based UI hosted on streamlit for ease of use.
 + We get a learning graph at the end as outputs for comparing the learning of the models form these four models.
 
-##Input Format
+## Input Format
 The input should be a `.zip` file containing number of folders the same as the number of classes in the dataset. Each of those folders need to contain images of those classes.
 
 ![image](https://user-images.githubusercontent.com/67522615/204631834-c1ce72f0-785d-4437-89dd-28408e70768b.png)
