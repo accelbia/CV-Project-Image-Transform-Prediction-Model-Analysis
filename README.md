@@ -27,7 +27,18 @@ The input should be a `.zip` file containing number of folders the same as the n
 ![image](https://user-images.githubusercontent.com/67522615/204631928-3c6dbcb2-08e0-4c0d-ac5a-7f95b5da6566.png)
 
 ## Output
-The output is in the form of learning graph showing learning curve of the transformed images as the base data. <br>
+The output is in the form of learning graph showing learning curve of the transformed images as the base data.
 ![canny_acc](https://user-images.githubusercontent.com/67522615/204634672-8a451155-a382-4f71-94bb-111f4edc3e23.png)
 ![canny_loss](https://user-images.githubusercontent.com/67522615/204634682-cfe85fe6-c9fd-4824-93c9-c735ceb07784.png)
+
+## Original setup
+1. Windows 10 64-bit.
+2. Python 3.10.2
+3. Nvidia GTX 1050m
+
+## Project Setup
+1. Clone this repository using `git clone https://github.com/accelbia/CV-Project-Wavelet-Transform-Prediction-Model-Analysis`.
+2. Navigate to the current cloned repository.
+3. Install the necessary requirements using `pip install -r requirements.txt`.
+4. Run the streamlit application by running `streamlit run Home.py`.
 
