@@ -42,3 +42,7 @@ The output is in the form of learning graph showing learning curve of the transf
 3. Install the necessary requirements using `pip install -r requirements.txt`.
 4. Run the streamlit application by running `streamlit run Home.py`.
 
+## Trial Run 
+
+1. ![image](https://user-images.githubusercontent.com/67522615/204639170-4453fa21-81c7-413c-a215-632aa2d1890c.png)
+... Upload the dataset by clicking on the 'Browse files'.
