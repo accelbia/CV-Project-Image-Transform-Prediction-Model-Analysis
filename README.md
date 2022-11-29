@@ -27,7 +27,7 @@ The input should be a `.zip` file containing number of folders the same as the n
 ![image](https://user-images.githubusercontent.com/67522615/204631928-3c6dbcb2-08e0-4c0d-ac5a-7f95b5da6566.png)
 
 ## Output
-The output is in the form of learning graph showing learning curve of the transformed images as the base data. 
+The output is in the form of learning graph showing learning curve of the transformed images as the base data. <br>
 ![canny_acc](https://user-images.githubusercontent.com/67522615/204634672-8a451155-a382-4f71-94bb-111f4edc3e23.png)
 ![canny_loss](https://user-images.githubusercontent.com/67522615/204634682-cfe85fe6-c9fd-4824-93c9-c735ceb07784.png)
 
