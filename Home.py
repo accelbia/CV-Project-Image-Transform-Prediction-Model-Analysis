@@ -108,7 +108,7 @@ def daubechies_transform():
     return X, Y
 
 def show_plots():
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2 = st.columns(2)
     
     with col1:
         st.title('Daubauchies')
@@ -123,6 +123,8 @@ def show_plots():
         st.image(image, caption='Haar Accuracy')
         image = Image.open('cache/haar_loss.png')
         st.image(image, caption='Haar Loss')
+    
+    col3, col4 = st.columns(2)
     
     with col3:
         st.title('Fourier')
@@ -205,7 +207,6 @@ def start_training(classes, final_model, test_ratio, val_ratio, optimizer, loss,
     my_bar.progress(100)
     
     st.write(hist_d.history.keys())
-    col1, col2, col3, col4 = st.columns(3)
 
     save_data(hist_d, hist_f, hist_h, hist_c)
     show_plots()
