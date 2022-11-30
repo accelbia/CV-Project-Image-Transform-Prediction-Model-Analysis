@@ -50,4 +50,15 @@ The output is in the form of learning graph showing learning curve of the transf
 2. The classes contained in the zip files are displayed. Choose the model you want to use and add in the relevant layers and information.
    ![image](https://user-images.githubusercontent.com/67522615/204639958-51e233d2-e07d-47f7-a5b0-6fa10c946011.png)
    
-3. 
+3. Choose the optimizer, loss function and metrics, and click start to start the training. 
+   ![image](https://user-images.githubusercontent.com/67522615/204840649-cc046400-a73e-4bbb-ba04-c0e7ae3fd7d1.png)
+
+4. The training information is displayed on the screen after the training.
+   ![image](https://user-images.githubusercontent.com/67522615/204842181-a9a2d408-9010-4f8c-bf4a-21071cb45d0d.png)
+   ![image](https://user-images.githubusercontent.com/67522615/204842251-96eb45b5-f216-4ac5-9062-48aa963d726b.png)
+
+## The project was made by 
+CB.EN.U4CSE19106 - [Ayush Barik](http://github.com/accelbia)
+CB.EN.U4CSE19106 - [T. Ganesh Rohit Sarma](http://github.com/roathena)
+CB.EN.U4CSE19106 - [A Shivaani](http://github.com/ShivaaniAnand)
+CB.EN.U4CSE19106 - [V Neelesh Gupta](http://github.com/vayigandlaneelesh)
