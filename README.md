@@ -1,5 +1,5 @@
 # CV-Project 
-## Prediction Model Analysis
+## Image Transform Prediction Model Analysis
 This project acts as a pipeline to perform certain image transformations as a method to preprocess images, and feeding those transformed images though CNN models. Depending on the input classes, different features will be extracted, and a good predictive model can be determined for the usecase. 
 
 Four transforms are used in this project : 
@@ -58,6 +58,7 @@ The output is in the form of learning graph showing learning curve of the transf
    ![image](https://user-images.githubusercontent.com/67522615/204842251-96eb45b5-f216-4ac5-9062-48aa963d726b.png)
 
 ## The project was made by 
+![image](https://user-images.githubusercontent.com/67522615/204845805-fca60e69-f562-4941-8614-8bf76291e678.png)
 CB.EN.U4CSE19106 - [Ayush Barik](http://github.com/accelbia)</br>
 CB.EN.U4CSE19106 - [T. Ganesh Rohit Sarma](http://github.com/roathena)</br>
 CB.EN.U4CSE19106 - [A Shivaani](http://github.com/ShivaaniAnand)</br>
