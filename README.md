@@ -58,7 +58,7 @@ The output is in the form of learning graph showing learning curve of the transf
    ![image](https://user-images.githubusercontent.com/67522615/204842251-96eb45b5-f216-4ac5-9062-48aa963d726b.png)
 
 ## The project was made by 
-CB.EN.U4CSE19106 - [Ayush Barik](http://github.com/accelbia)
-CB.EN.U4CSE19106 - [T. Ganesh Rohit Sarma](http://github.com/roathena)
-CB.EN.U4CSE19106 - [A Shivaani](http://github.com/ShivaaniAnand)
+CB.EN.U4CSE19106 - [Ayush Barik](http://github.com/accelbia)</br>
+CB.EN.U4CSE19106 - [T. Ganesh Rohit Sarma](http://github.com/roathena)</br>
+CB.EN.U4CSE19106 - [A Shivaani](http://github.com/ShivaaniAnand)</br>
 CB.EN.U4CSE19106 - [V Neelesh Gupta](http://github.com/vayigandlaneelesh)
