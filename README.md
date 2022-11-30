@@ -44,9 +44,10 @@ The output is in the form of learning graph showing learning curve of the transf
 
 ## Trial Run 
 
-1. ![image](https://user-images.githubusercontent.com/67522615/204639170-4453fa21-81c7-413c-a215-632aa2d1890c.png)
-   Upload the dataset by clicking on the 'Browse files'.
+1. Upload the dataset by clicking on the 'Browse files'.
+   ![image](https://user-images.githubusercontent.com/67522615/204639170-4453fa21-81c7-413c-a215-632aa2d1890c.png)
 
-2. ![image](https://user-images.githubusercontent.com/67522615/204639958-51e233d2-e07d-47f7-a5b0-6fa10c946011.png)
-   The classes contained in the zip files are displayed. Choose the model you want to use and add in the relevant layers and information.
+2. The classes contained in the zip files are displayed. Choose the model you want to use and add in the relevant layers and information.
+   ![image](https://user-images.githubusercontent.com/67522615/204639958-51e233d2-e07d-47f7-a5b0-6fa10c946011.png)
+   
    
