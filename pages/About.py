@@ -4,7 +4,7 @@ from streamlit_lottie import st_lottie
 import pandas as pd
 st.set_page_config(layout="wide")
 
-st.title('Wavelet Transform Prediction Model Analysis - About')
+st.title('Image Transform Prediction Model Analysis - About')
 def load_lottieurl(url: str):
     r = requests.get(url)
     if r.status_code != 200:
